@@ -1,0 +1,15 @@
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\bin\Debug\netstandard2.0\PrimeraAppMovilNaac.deps.json
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\bin\Debug\netstandard2.0\PrimeraAppMovilNaac.dll
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\bin\Debug\netstandard2.0\ref\PrimeraAppMovilNaac.dll
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\bin\Debug\netstandard2.0\PrimeraAppMovilNaac.pdb
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.csproj.AssemblyReference.cache
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.AssemblyInfoInputs.cache
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.AssemblyInfo.cs
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.dll
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\ref\PrimeraAppMovilNaac.dll
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\PrimeraAppMovilNaac.pdb
+C:\Users\nicoa\source\repos\PrimeraAppMovilNaac\PrimeraAppMovilNaac\PrimeraAppMovilNaac\obj\Debug\netstandard2.0\Pagina secundaria.xaml.g.cs

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraAppMovilNaac.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="Dont worry be happy, ¡Anerol!" x:Name="Label"/>
+        <Entry x:Name="Entrada" Text="{Binding Persona.Nombre}"/>
+        <Button x:Name="Boton" Text="Guardar" Clicked="Button_Clicked"></Button>
+        <Button x:Name="BotonSegundaPagina" Text="Abrir una segunda pagina" Clicked="BotonSegundaPagina_OnClicked"></Button>
+    </StackLayout>
+
+</ContentPage>
